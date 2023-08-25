@@ -13,7 +13,7 @@ const Left = () => {
           Hello! My name is Bishal Khatri and I enjoy creating things that live
           on the internet. My interest in web development started back in 2014
           when I decided to try editing custom Mig33 themes — turns out hacking
-          together a custom reblog button taught me a lot about HTML & CSS!
+          together a custom button taught me a lot about HTML & CSS!
         </p>
         <p>
           Fast-forward to today, and I’ve had the privilege of working at
