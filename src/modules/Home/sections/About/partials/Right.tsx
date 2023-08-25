@@ -13,8 +13,8 @@ const Right = () => {
     >
       <div className="w-[300px] h-[350px] relative group rounded-xl after:transition-all after:duration-200 after:hover:left-[12px] after:hover:top-[12px] after:w-full after:z-30 after:h-full after:border-[2px] after:absolute after:top-[20px] after:left-[20px] after:rounded-xl after:border-sky-500">
         <Image
-          src="/images/model/BishalKhatri-Freelancer.png"
-          blurDataURL="/images/model/BishalKhatri-Freelancer.png"
+          src="https://res.cloudinary.com/dbbihb1xb/image/upload/v1692941221/Bishal1_tgnuok.jpg"
+          blurDataURL="https://res.cloudinary.com/dbbihb1xb/image/upload/v1692941221/Bishal1_tgnuok.jpg"
           className="rounded-xl z-40 transition-all duration-200 group-hover:translate-y-[2px] group-hover:translate-x-[2px]"
           layout="fill"
           objectFit="cover"
